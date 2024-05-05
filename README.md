@@ -1,4 +1,4 @@
-This project delves into predictive modeling by assessing bagging and boosting regression techniques applied to insurance data. The dataset includes predictors like age, sex, BMI, children, smoker status, region, and historical charges.
+This project delves into predictive modeling by assessing **bagging and boosting regression techniques** applied to insurance data. The dataset includes predictors like age, sex, BMI, children, smoker status, region, and historical charges.
 
 The primary goal is to compare the predictive performance of bagging and boosting regression methods in accurately estimating insurance claim amounts. Bagging involves training multiple regression models on bootstrapped subsets of the data and aggregating their predictions, while boosting iteratively improves model performance by focusing on misclassified instances.
 
